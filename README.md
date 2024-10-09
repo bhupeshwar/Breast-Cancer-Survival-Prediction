@@ -26,6 +26,12 @@ This repository contains code for predicting breast cancer survival using machin
 4. Execute the `run_pipeline.py` script to train the model.
 5. Run the `streamlit_app.py` to experience the model via the Streamlit app.
 
+
+## Project Output
+
+![image](https://github.com/user-attachments/assets/3d684ae7-3486-41ea-bc5c-175b4c6ed147)
+
+
 ## Contributions
 Contributions are welcome! Feel free to fork this repository, make changes, and create a pull request. Please adhere to the repository's guidelines.
 
